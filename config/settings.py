@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-pmlp=%cccil1lxxw2fwpywbz)(tw*qx+=98m!l&)c!nzc30@cv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['zestful-victory.railway.app']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
