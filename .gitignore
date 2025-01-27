@@ -1,0 +1,46 @@
+# Python bytecode files
+*.py[cod]
+__pycache__/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Environment files
+.env
+.venv
+venv/
+ENV/
+env/
+
+# IDE / Editor directories
+.idea/
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.cache
+
+# MyPy
+.mypy_cache/
+
+# Sphinx documentation
+docs/_build/
+
+# Coverage reports
+.coverage
+.coverage.*
+*.coveragerc
+
+# VS Code settings
+.vscode/settings.json
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
